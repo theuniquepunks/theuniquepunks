@@ -26,7 +26,7 @@ body {
 }
 
 .mainPage{
-    background: url(/2/assets/TheUniquePunks_BG.png) no-repeat center center fixed;
+    background: url("https://i.ibb.co/QQPB7Nf/The-Unique-Punks-BG.png") no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -64,7 +64,7 @@ body {
 
 
 .aboutPage {
-    background: url(/2/assets/TheUniquePunks_BG.png) no-repeat center center fixed;
+    background: url("https://i.ibb.co/QQPB7Nf/The-Unique-Punks-BG.png") no-repeat center center fixed;
     background-size: cover;
 }
 
